@@ -1,5 +1,5 @@
 <a href="https://github.com/Edutictac/webtictac" target="_blank"><img src="https://img.shields.io/badge/GITHub-built-lightgrey.svg" alt="GITHub" align="right"></a>
-<a href="https://github.com/Edutictac/webtictac" target="_blank"><img src="https://img.shields.io/badge/EduTicTac-comunity-blue.svg" alt="EduTicTac" align="right"></a>
+<a href="http://edutictac.es/" target="_blank"><img src="https://img.shields.io/badge/EduTicTac-comunity-blue.svg" alt="EduTicTac" align="right"></a>
 # Webtictac
 
 Aquest espai està creat per forjar de la web de la comunitat i aprendre el mecanisme de GITHub per millorar projectes col·lectius.
