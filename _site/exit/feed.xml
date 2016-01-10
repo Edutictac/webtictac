@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WebTicTac</title>
+    <description>Aqust projecte naix de la voluntat de millorar la web de la comuinitat, però sobretot de la necessitat d&#39;aprendre a fer les coses de forma col·laborativa i de manera fluida. Encetem una metodologia que potser ens porte molt lluny.
+</description>
+    <link>http://edutictac.github.com/webtictac//</link>
+    <atom:link href="http://edutictac.github.com/webtictac//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 09 Jan 2016 20:06:09 +0100</pubDate>
+    <lastBuildDate>Sat, 09 Jan 2016 20:06:09 +0100</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 09 Jan 2016 19:58:31 +0100</pubDate>
+        <link>http://edutictac.github.com/webtictac//jekyll/update/2016/01/09/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://edutictac.github.com/webtictac//jekyll/update/2016/01/09/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Redimensionant les imatges</title>
+        <description>&lt;p&gt;Hen tingut certs problemes en ajustar les imatges de la galeria. Actualment no són definitives, però hem aconseguit ajustar-les per donar la sensació d’equilibri.&lt;/p&gt;
+
+&lt;p&gt;No tenim moltes imatges on elegir, així que potser tirem endavant amb aquestes primeres i més tard ja podrem millorar-les.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 09 Jan 2016 00:00:00 +0100</pubDate>
+        <link>http://edutictac.github.com/webtictac//2016/01/09/redimensionant-les-imatges.html</link>
+        <guid isPermaLink="true">http://edutictac.github.com/webtictac//2016/01/09/redimensionant-les-imatges.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Secció JClic incorporada</title>
+        <description>&lt;p&gt;Hem incorporat una nova secció, la secció de JClic. JClic ha estat un programari que ens ha unit i cal donar-li relevància. Hem incorporat aquest espai per fer-ho.&lt;/p&gt;
+
+&lt;p&gt;Aquest projecte té gairebé uns 10 anys de vida, va estar iniciat al CEIP Jaume Balmes d’Elx. Amb el naixement de la comunitat EduTicTac es va seguir desenvolupant el projecte.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 08 Jan 2016 00:00:00 +0100</pubDate>
+        <link>http://edutictac.github.com/webtictac//2016/01/08/seccio-jclic-incorporada.html</link>
+        <guid isPermaLink="true">http://edutictac.github.com/webtictac//2016/01/08/seccio-jclic-incorporada.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Codi inicial</title>
+        <description>&lt;p&gt;Hem pujat el codi inicial des de el repositori local, en principi anem a respectar l’estructura que ja hi havia a la plana que està on-line actualment a &lt;a href=&quot;http://edutictac.es/&quot;&gt;http://edutictac.es/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hem incorporat noves icones, algunes fotos i també la icona xicoteta de la comunitat («shortcut icon») per tal que es veja a les pestanyes.&lt;/p&gt;
+
+&lt;p&gt;Actualitzades icones socials, suprimit canviats d’ordre enllaços de la capçalera.&lt;/p&gt;
+
+&lt;p&gt;Incorporada la &lt;a href=&quot;https://github.com/Edutictac/webtictac/wiki&quot;&gt;wiki&lt;/a&gt; del projecte WebTicTac.&lt;/p&gt;
+
+&lt;p&gt;Incorporada galeria de fotos de proves i Google Maps per a quedades al final de la pàgina.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 05 Jan 2016 00:00:00 +0100</pubDate>
+        <link>http://edutictac.github.com/webtictac//2016/01/05/codi-inicial.html</link>
+        <guid isPermaLink="true">http://edutictac.github.com/webtictac//2016/01/05/codi-inicial.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Benvinguts</title>
+        <description>&lt;p&gt;Esteu a la pàgia de seguiment dels canvis del projecte de web per a la comunitat EduTicTac.&lt;/p&gt;
+
+&lt;p&gt;En aquesta pàgina anirem contant les modificacions que farem al llarg del procés de forja.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Jan 2016 08:00:00 +0100</pubDate>
+        <link>http://edutictac.github.com/webtictac//blog/2016/01/04/benvinguts.html</link>
+        <guid isPermaLink="true">http://edutictac.github.com/webtictac//blog/2016/01/04/benvinguts.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>

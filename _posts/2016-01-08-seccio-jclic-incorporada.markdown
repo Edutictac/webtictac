@@ -1,0 +1,8 @@
+---
+layout: post
+title: Secció JClic incorporada
+---
+
+Hem incorporat una nova secció, la secció de JClic. JClic ha estat un programari que ens ha unit i cal donar-li relevància. Hem incorporat aquest espai per fer-ho.
+
+Aquest projecte té gairebé uns 10 anys de vida, va estar iniciat al CEIP Jaume Balmes d'Elx. Amb el naixement de la comunitat EduTicTac es va seguir desenvolupant el projecte. 

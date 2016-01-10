@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WebTicTac</title>
+    <description>Aqust projecte naix de la voluntat de millorar la web de la comuinitat, però sobretot de la necessitat d&#39;aprendre a fer les coses de forma col·laborativa i de manera fluida. Encetem una metodologia que potser ens porte molt lluny.
+</description>
+    <link>http://edutictac.github.com/webtictac//</link>
+    <atom:link href="http://edutictac.github.com/webtictac//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 10 Jan 2016 01:07:26 +0100</pubDate>
+    <lastBuildDate>Sun, 10 Jan 2016 01:07:26 +0100</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Redimensionant les imatges</title>
+        <description>&lt;p&gt;Hen tingut certs problemes en ajustar les imatges de la galeria. Actualment no són definitives, però hem aconseguit ajustar-les per donar la sensació d’equilibri.&lt;/p&gt;
+
+&lt;p&gt;No tenim moltes imatges on elegir, així que potser tirem endavant amb aquestes primeres i més tard ja podrem millorar-les.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 09 Jan 2016 00:00:00 +0100</pubDate>
+        <link>http://edutictac.github.com/webtictac//2016/01/09/redimensionant-les-imatges.html</link>
+        <guid isPermaLink="true">http://edutictac.github.com/webtictac//2016/01/09/redimensionant-les-imatges.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Secció JClic incorporada</title>
+        <description>&lt;p&gt;Hem incorporat una nova secció, la secció de JClic. JClic ha estat un programari que ens ha unit i cal donar-li relevància. Hem incorporat aquest espai per fer-ho.&lt;/p&gt;
+
+&lt;p&gt;Aquest projecte té gairebé uns 10 anys de vida, va estar iniciat al CEIP Jaume Balmes d’Elx. Amb el naixement de la comunitat EduTicTac es va seguir desenvolupant el projecte.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 08 Jan 2016 00:00:00 +0100</pubDate>
+        <link>http://edutictac.github.com/webtictac//2016/01/08/seccio-jclic-incorporada.html</link>
+        <guid isPermaLink="true">http://edutictac.github.com/webtictac//2016/01/08/seccio-jclic-incorporada.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Codi inicial</title>
+        <description>&lt;p&gt;Hem pujat el codi inicial des de el repositori local, en principi anem a respectar l’estructura que ja hi havia a la plana que està on-line actualment a &lt;a href=&quot;http://edutictac.es/&quot;&gt;http://edutictac.es/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hem incorporat noves icones, algunes fotos i també la icona xicoteta de la comunitat («shortcut icon») per tal que es veja a les pestanyes.&lt;/p&gt;
+
+&lt;p&gt;Actualitzades icones socials, suprimit canviats d’ordre enllaços de la capçalera.&lt;/p&gt;
+
+&lt;p&gt;Incorporada la &lt;a href=&quot;https://github.com/Edutictac/webtictac/wiki&quot;&gt;wiki&lt;/a&gt; del projecte WebTicTac.&lt;/p&gt;
+
+&lt;p&gt;Incorporada galeria de fotos de proves i Google Maps per a quedades al final de la pàgina.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 05 Jan 2016 00:00:00 +0100</pubDate>
+        <link>http://edutictac.github.com/webtictac//2016/01/05/codi-inicial.html</link>
+        <guid isPermaLink="true">http://edutictac.github.com/webtictac//2016/01/05/codi-inicial.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Benvinguts</title>
+        <description>&lt;p&gt;Esteu a la pàgia de seguiment dels canvis del projecte de web per a la comunitat EduTicTac.&lt;/p&gt;
+
+&lt;p&gt;En aquesta pàgina anirem contant les modificacions que farem al llarg del procés de forja.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Jan 2016 08:00:00 +0100</pubDate>
+        <link>http://edutictac.github.com/webtictac//blog/2016/01/04/benvinguts.html</link>
+        <guid isPermaLink="true">http://edutictac.github.com/webtictac//blog/2016/01/04/benvinguts.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>

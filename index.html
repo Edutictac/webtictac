@@ -1,83 +1,23 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+---
+layout: default
+---
 
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+<div class="home">
 
-    <title>Webtictac by Edutictac</title>
-  </head>
+  <h1 class="page-heading">Posts</h1>
 
-  <body>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-    <header>
-      
-      <div class="container">
-        <h1>Webtictac</h1>
-        <h2>Forja de la web de la comunitat</h2>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
 
-        <section id="downloads">
-          <a href="https://github.com/Edutictac/webtictac/zipball/master" class="btn">Download as .zip</a>
-          <a href="https://github.com/Edutictac/webtictac/tarball/master" class="btn">Download as .tar.gz</a>
-          <a href="https://github.com/Edutictac/webtictac" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-        </section>
-      </div>
-    </header>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
-    <div class="container">
-      <section id="main_content">
-        
-         <a href="https://github.com/Edutictac/webtictac" target="_blank"><img src="https://img.shields.io/badge/GITHub-built-lightgrey.svg" alt="GITHub" align="right"></a><br />
-         <a href="http://edutictac.es/" target="_blank"><img src="https://img.shields.io/badge/EduTicTac-comunity-blue.svg" alt="EduTicTac" align="right"></a>
-        
-        
-        <h3>
-<a id="Benvinguts" class="anchor" href="#Benvinguts" aria-hidden="true"><span class="octicon octicon-link"></span></a>Benvinguts</h3>
-<small>04/01/2016</small>
-
-<p>Esteu a la pàgia de seguiment dels canvis del projecte de web per a la comunitat EduTicTac.</p>
-
-<p>En aquesta pàgina anirem contant les modificacions que farem al llarg del procés de forja.</p>
-
-        <h3>
-<a id="Codi-inicial" class="anchor" href="#Codi-inicial" aria-hidden="true"><span class="octicon octicon-link"></span></a>Codi inicial</h3>
-<small>05/01/2016</small>
-
-<p>Hem pujat el codi inicial des de el repositori local, en principi anem a respectar l'estructura que ja hi havia a la plana que està on-line actualment a <a href="http://edutictac.es/" target="_blank"></a>http://edutictac.es/</a></p>
-
-<h3>
-<a id="Icons" class="anchor" href="#Icons" aria-hidden="true"><span class="octicon octicon-link"></span></a>Icones incorporades</h3>
-<small>05/01/2016</small>
-
-<p>Hem incorporat noves icones, algunes fotos i també la icona xicoteta de la comunitat («shortcut icon») per tal que es veja a les pestanyes.</p>
-
-<small>05/01/2016</small>
-
-<p>Actualitzades icones socials, suprimit canviats d'ordre enllaços de la capçalera.</p>
-<p>Incorporada la <a href="https://github.com/Edutictac/webtictac/wiki">wiki del projecte WebTicTac</a></p>
-<p>Incorporada galeria de fotos de proves i Google Maps per a quedades al final de la pàgina.</p>
-
- <h3>
-<a id="JClic" class="anchor" href="#JClic" aria-hidden="true"><span class="octicon octicon-link"></span></a>Secció JClic incorporada</h3>
-<small>08/01/2016</small>
- </h3>
-
-<p>Hem incorporat una nova secció, la secció de JClic. JClic ha estat un programari que ens ha unit i cal donar-li relevància. Hem incorporat aquest espai per fer-ho.</p>
-
- <h3>
-<a id="Imatges_1" class="anchor" href="#Imatges_1" aria-hidden="true"><span class="octicon octicon-link"></span></a>Redimensionant les imatges</h3>
-<small>09/01/2016</small>
- </h3>
-
-<p>Hem redimensionant les images. Costa molt enquadrar i redimensionar a causa del poc número d'imatges que tenim.</p>
-
-
-      </section>
-    </div>
-
-    
-  </body>
-</html>
+</div>
