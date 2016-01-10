@@ -2,7 +2,7 @@
 title: WebTicTac
 email: contacte@edutictac.es
 description: > # this means to ignore newlines until "baseurl:"
-  Aqust projecte naix de la voluntat de millorar la web de la comuinitat, però sobretot de la necessitat d'aprendre a fer les coses de forma col·laborativa i de manera fluida. Encetem una metodologia que potser ens porte molt lluny.
+  Aquest projecte naix de la voluntat de millorar la web de la comuinitat, però sobretot de la necessitat d'aprendre a fer les coses de forma col·laborativa i de manera fluida. Encetem una metodologia que potser ens porte molt lluny.
 
 baseurl: "/webtictac/" # the subpath of your site, e.g. /blog/
 url: "http://edutictac.github.com" # the base hostname & protocol for your site
