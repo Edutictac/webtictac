@@ -2,13 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WebTicTac</title>
-    <description>Aqust projecte naix de la voluntat de millorar la web de la comuinitat, però sobretot de la necessitat d&#39;aprendre a fer les coses de forma col·laborativa i de manera fluida. Encetem una metodologia que potser ens porte molt lluny.
+    <description>Aquest projecte naix de la voluntat de millorar la web de la comuinitat, però sobretot de la necessitat d&#39;aprendre a fer les coses de forma col·laborativa i de manera fluida. Encetem una metodologia que potser ens porte molt lluny.
 </description>
     <link>http://edutictac.github.com/webtictac//</link>
     <atom:link href="http://edutictac.github.com/webtictac//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 10 Jan 2016 01:07:26 +0100</pubDate>
-    <lastBuildDate>Sun, 10 Jan 2016 01:07:26 +0100</lastBuildDate>
+    <pubDate>Fri, 15 Jan 2016 07:25:05 +0100</pubDate>
+    <lastBuildDate>Fri, 15 Jan 2016 07:25:05 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Enllestint seccions</title>
+        <description>&lt;p&gt;Hen editat comentaris per tal de seguir parlant de les activitats fetes a la comunitat.&lt;/p&gt;
+
+&lt;p&gt;Hem afegit un enllaç al repositori de la Comunitat Edutictac de Lanunchpad. També parlem dels serveis de Moodle, Diigo, GITHub i el Planeta.&lt;/p&gt;
+
+&lt;p&gt;Hem afegit enllaços cap a distros interessant, però cal pensar l’interior de les caixes.&lt;/p&gt;
+
+&lt;p&gt;Per altra banda cal repensar el formulari de contacte, potser caldria posar un missatge de no implementat pel moment.&lt;/p&gt;
+
+&lt;p&gt;Finalment cal afegir uns comentaris respecte l’experiència dels membres de la comunitat al llarg d’aquests anys.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 15 Jan 2016 00:00:00 +0100</pubDate>
+        <link>http://edutictac.github.com/webtictac//2016/01/15/enllestint-seccions.html</link>
+        <guid isPermaLink="true">http://edutictac.github.com/webtictac//2016/01/15/enllestint-seccions.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Redimensionant les imatges</title>
