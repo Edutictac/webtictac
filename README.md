@@ -8,3 +8,7 @@ Es poden seguir els canvie significatius des del blog del projecte on anirem con
 
 [http://edutictac.github.io/webtictac/](http://edutictac.github.io/webtictac/)
 
+Podeu participar en la wiki del projecte aportant informació o metodologia editant la wiki del projecte, la teniu ací:
+
+[https://github.com/Edutictac/webtictac/wiki](https://github.com/Edutictac/webtictac/wiki)
+
