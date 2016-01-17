@@ -6,9 +6,29 @@
 </description>
     <link>http://edutictac.github.com/webtictac//</link>
     <atom:link href="http://edutictac.github.com/webtictac//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 16 Jan 2016 08:43:00 +0100</pubDate>
-    <lastBuildDate>Sat, 16 Jan 2016 08:43:00 +0100</lastBuildDate>
+    <pubDate>Sun, 17 Jan 2016 17:03:31 +0100</pubDate>
+    <lastBuildDate>Sun, 17 Jan 2016 17:03:31 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Afegida secció Bibliojocs</title>
+        <description>&lt;p&gt;Finalment hem publicat la web. De seguida ha calgut revisar enllaços i revisar ortografia i incloure una nova secció.&lt;/p&gt;
+
+&lt;p&gt;Els últims &lt;strong&gt;commits&lt;/strong&gt; parlen d’un enllaç trencat, se’ns ha passat una barra de divisió al final que feia que no enllaçara correctament, ho hem solucionat.&lt;/p&gt;
+
+&lt;p&gt;També s’han afegit nous enllaços de prova i hem revisat l’ortografia, que sempre s’escapa alguna cosa. Intentem prestar molta atenció a aquest tema, en la mesura del que ens és possible anem corregint.&lt;/p&gt;
+
+&lt;p&gt;Però la gran novetat, sens dubte, és que s’ha incorporat una nova secció: &lt;a href=&quot;http://edutictac.es/#bibliojocs&quot;&gt;Bibliojocs&lt;/a&gt;, en la qual s’inclou una foto i una explicació molt breu. Benvingut aquest canvi, però a mesura que anem reflexionant supose que anirem depurant.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 17 Jan 2016 17:00:00 +0100</pubDate>
+        <link>http://edutictac.github.com/webtictac//blog/2016/01/17/bibliojocs.html</link>
+        <guid isPermaLink="true">http://edutictac.github.com/webtictac//blog/2016/01/17/bibliojocs.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Proposta de publicació</title>
