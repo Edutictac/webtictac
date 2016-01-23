@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Vídeo promocional"
+date:   2016-01-23 21:00:00
+categories: blog
+---
+
+Hem incorporat el video promocional creat per [Daniel][daniel] a la web.
+
+També hem enllaçat amb la secció de trobades per tal que es puga localitzar al mapa tota la informació tamb el mapa com les webs de referència de la trobada.
+
+El nivell de participació, el compromís i la serietat dels participants en aquesta comunitat augmentant, potser és el fruit dels anys d'aprenentatge i coneixement en comunitat.
+
+Desitgem que continue augmentant també el nombre de membres, així com les seues aportacions.
+
+<code>Happy haking</code>
+
+[daniel]:	http://quinboigproposit.edutictac.es
+

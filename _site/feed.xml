@@ -6,9 +6,31 @@
 </description>
     <link>http://edutictac.github.com/webtictac//</link>
     <atom:link href="http://edutictac.github.com/webtictac//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 17 Jan 2016 17:03:31 +0100</pubDate>
-    <lastBuildDate>Sun, 17 Jan 2016 17:03:31 +0100</lastBuildDate>
+    <pubDate>Sat, 23 Jan 2016 22:56:14 +0100</pubDate>
+    <lastBuildDate>Sat, 23 Jan 2016 22:56:14 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Vídeo promocional</title>
+        <description>&lt;p&gt;Hem incorporat el video promocional creat per &lt;a href=&quot;http://quinboigproposit.edutictac.es&quot;&gt;Daniel&lt;/a&gt; a la web.&lt;/p&gt;
+
+&lt;p&gt;També hem enllaçat amb la secció de trobades per tal que es puga localitzar al mapa tota la informació tamb el mapa com les webs de referència de la trobada.&lt;/p&gt;
+
+&lt;p&gt;El nivell de participació, el compromís i la serietat dels participants en aquesta comunitat augmentant, potser és el fruit dels anys d’aprenentatge i coneixement en comunitat.&lt;/p&gt;
+
+&lt;p&gt;Desitgem que continue augmentant també el nombre de membres, així com les seues aportacions.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Happy haking&lt;/code&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 23 Jan 2016 22:00:00 +0100</pubDate>
+        <link>http://edutictac.github.com/webtictac//blog/2016/01/23/video.html</link>
+        <guid isPermaLink="true">http://edutictac.github.com/webtictac//blog/2016/01/23/video.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Afegida secció Bibliojocs</title>
