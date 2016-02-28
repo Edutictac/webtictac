@@ -6,9 +6,23 @@
 </description>
     <link>http://edutictac.github.com/webtictac//</link>
     <atom:link href="http://edutictac.github.com/webtictac//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 23 Jan 2016 22:56:14 +0100</pubDate>
-    <lastBuildDate>Sat, 23 Jan 2016 22:56:14 +0100</lastBuildDate>
+    <pubDate>Sun, 28 Feb 2016 10:18:26 +0100</pubDate>
+    <lastBuildDate>Sun, 28 Feb 2016 10:18:26 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>App Cuaderno Profesor i StackEdit</title>
+        <description>&lt;p&gt;Hem incorporat a la web un enllaç per promocionar la App escrita per Fran Memeu &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.apolosoft.cuadernoprofesor&quot;&gt;Cuaderno Profesor&lt;/a&gt; i un enllaç a un editor de text on-line anomenat &lt;a href=&quot;https://stackedit.io/&quot;&gt;StackEdit&lt;/a&gt;, permet escriure, guardar i sincronitzar el contingut d’un fitxer de text pla escrit en Markdown. El fitxer es pot allotjar i publicar en diferents formats a Dropbox, GoogleDrive, entre d’altres.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 28 Feb 2016 11:00:00 +0100</pubDate>
+        <link>http://edutictac.github.com/webtictac//blog/2016/02/28/apps-i-markdown.html</link>
+        <guid isPermaLink="true">http://edutictac.github.com/webtictac//blog/2016/02/28/apps-i-markdown.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Vídeo promocional</title>
