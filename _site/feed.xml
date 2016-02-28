@@ -6,9 +6,25 @@
 </description>
     <link>http://edutictac.github.com/webtictac//</link>
     <atom:link href="http://edutictac.github.com/webtictac//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 28 Feb 2016 19:52:03 +0100</pubDate>
-    <lastBuildDate>Sun, 28 Feb 2016 19:52:03 +0100</lastBuildDate>
+    <pubDate>Sun, 28 Feb 2016 19:58:36 +0100</pubDate>
+    <lastBuildDate>Sun, 28 Feb 2016 19:58:36 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Ocultant vídeos</title>
+        <description>&lt;p&gt;Sembla que els vídeos penjats a la web impedia tenir una experiència òptima des de dispositius mòbils, així que, després de pensar-ho entre tots els que han volgut participar en el debat hem decidit ocultar els vídeos a la nostra web &lt;a href=&quot;http://edutictac.es/&quot;&gt;EduTicTac&lt;/a&gt;, de forma que de moment romandran ocults.&lt;/p&gt;
+
+&lt;p&gt;D’aquesta manera queda el codi preparat per si de cas cal penjar un vídeo o un paràgraf de text.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 29 Feb 2016 08:00:00 +0100</pubDate>
+        <link>http://edutictac.github.com/webtictac//blog/2016/02/29/ocultant-videos.html</link>
+        <guid isPermaLink="true">http://edutictac.github.com/webtictac//blog/2016/02/29/ocultant-videos.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>App Cuaderno Profesor i StackEdit</title>
@@ -18,22 +34,6 @@
         <pubDate>Sun, 28 Feb 2016 11:00:00 +0100</pubDate>
         <link>http://edutictac.github.com/webtictac//blog/2016/02/28/apps-i-markdown.html</link>
         <guid isPermaLink="true">http://edutictac.github.com/webtictac//blog/2016/02/28/apps-i-markdown.html</guid>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Ocultant vídeos</title>
-        <description>&lt;p&gt;Sembla que els vídeos penjats a la web impedia tenir una experiència òptima des de dispositius mòbils, així que, després de pensar-ho entre tots els que han volgut participar en el debat hem decidit ocultar els vídeos a la nostra web &lt;a href=&quot;http://edutictac.es/&quot;&gt;EduTicTac&lt;/a&gt;, de forma que de moment romandran ocults.&lt;/p&gt;
-
-&lt;p&gt;D’aquesta manera queda el codi preparat per si de cas cal penjar un vídeo o un paràgraf de text.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 09 Feb 2016 08:00:00 +0100</pubDate>
-        <link>http://edutictac.github.com/webtictac//blog/2016/02/09/ocultant-videos.html</link>
-        <guid isPermaLink="true">http://edutictac.github.com/webtictac//blog/2016/02/09/ocultant-videos.html</guid>
         
         
         <category>blog</category>
