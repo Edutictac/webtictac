@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Telegram"
+date:   2016-03-12 19:00:00
+categories: blog
+---
+
+Hem inclòs un enllaç a l'espai que compartim en [Telegram]. Telegram és una aplicació de missatgeria instantània enfocada en la seguretat i en la velocitat. És sofware lliure, podem revisar el codi i millorar el seu funcionament.
+
+Hem  inclòs l'enllaç per tal que altres persones puguen participar de la comunitat.
+
+
+[Telegram]:	https://telegram.me/joinchat/AF9KBgKKJwK35i6Qr_8bUg
+

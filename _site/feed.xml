@@ -6,9 +6,25 @@
 </description>
     <link>http://edutictac.github.com/webtictac//</link>
     <atom:link href="http://edutictac.github.com/webtictac//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 28 Feb 2016 20:06:37 +0100</pubDate>
-    <lastBuildDate>Sun, 28 Feb 2016 20:06:37 +0100</lastBuildDate>
+    <pubDate>Sat, 12 Mar 2016 19:44:19 +0100</pubDate>
+    <lastBuildDate>Sat, 12 Mar 2016 19:44:19 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Telegram</title>
+        <description>&lt;p&gt;Hem inclòs un enllaç a l’espai que compartim en &lt;a href=&quot;https://telegram.me/joinchat/AF9KBgKKJwK35i6Qr_8bUg&quot;&gt;Telegram&lt;/a&gt;. Telegram és una aplicació de missatgeria instantània enfocada en la seguretat i en la velocitat. És sofware lliure, podem revisar el codi i millorar el seu funcionament.&lt;/p&gt;
+
+&lt;p&gt;Hem  inclòs l’enllaç per tal que altres persones puguen participar de la comunitat.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 12 Mar 2016 20:00:00 +0100</pubDate>
+        <link>http://edutictac.github.com/webtictac//blog/2016/03/12/telegram.html</link>
+        <guid isPermaLink="true">http://edutictac.github.com/webtictac//blog/2016/03/12/telegram.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Ocultant vídeos</title>
@@ -163,21 +179,6 @@
         <link>http://edutictac.github.com/webtictac//2016/01/05/codi-inicial.html</link>
         <guid isPermaLink="true">http://edutictac.github.com/webtictac//2016/01/05/codi-inicial.html</guid>
         
-        
-      </item>
-    
-      <item>
-        <title>Benvinguts</title>
-        <description>&lt;p&gt;Esteu a la pàgia de seguiment dels canvis del projecte de web per a la comunitat EduTicTac.&lt;/p&gt;
-
-&lt;p&gt;En aquesta pàgina anirem contant les modificacions que farem al llarg del procés de forja.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 04 Jan 2016 08:00:00 +0100</pubDate>
-        <link>http://edutictac.github.com/webtictac//blog/2016/01/04/benvinguts.html</link>
-        <guid isPermaLink="true">http://edutictac.github.com/webtictac//blog/2016/01/04/benvinguts.html</guid>
-        
-        
-        <category>blog</category>
         
       </item>
     
