@@ -1,0 +1,8 @@
+---
+layout: post
+title: Biblioteques de JClic actualitzades
+date:  28-04-2016
+description: Hem actualitzat les biblitiques de JClic abril 2016
+---
+
+Hem actualitzat les bibliteques de JClic, des de la pàgina del projecte es pot baixar l'[arxiu](http://edutictac.es/#jclic) actualitzat a 18 d'abril de 2016.

@@ -6,9 +6,20 @@
 </description>
     <link>http://edutictac.github.com/webtictac//</link>
     <atom:link href="http://edutictac.github.com/webtictac//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 13 Mar 2016 06:37:00 +0100</pubDate>
-    <lastBuildDate>Sun, 13 Mar 2016 06:37:00 +0100</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <pubDate>Thu, 28 Apr 2016 06:49:42 +0200</pubDate>
+    <lastBuildDate>Thu, 28 Apr 2016 06:49:42 +0200</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Biblioteques de JClic actualitzades</title>
+        <description>&lt;p&gt;Hem actualitzat les bibliteques de JClic, des de la pàgina del projecte es pot baixar l’&lt;a href=&quot;http://edutictac.es/#jclic&quot;&gt;arxiu&lt;/a&gt; actualitzat a 18 d’abril de 2016.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 Apr 2016 00:00:00 +0200</pubDate>
+        <link>http://edutictac.github.com/webtictac//2016/04/28/jclic.html</link>
+        <guid isPermaLink="true">http://edutictac.github.com/webtictac//2016/04/28/jclic.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Telegram</title>
@@ -158,26 +169,6 @@
         <pubDate>Fri, 08 Jan 2016 00:00:00 +0100</pubDate>
         <link>http://edutictac.github.com/webtictac//2016/01/08/seccio-jclic-incorporada.html</link>
         <guid isPermaLink="true">http://edutictac.github.com/webtictac//2016/01/08/seccio-jclic-incorporada.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Codi inicial</title>
-        <description>&lt;p&gt;Hem pujat el codi inicial des de el repositori local, en principi anem a respectar l’estructura que ja hi havia a la plana que està on-line actualment a &lt;a href=&quot;http://edutictac.es/&quot;&gt;http://edutictac.es/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Hem incorporat noves icones, algunes fotos i també la icona xicoteta de la comunitat («shortcut icon») per tal que es veja a les pestanyes.&lt;/p&gt;
-
-&lt;p&gt;Actualitzades icones socials, suprimit canviats d’ordre enllaços de la capçalera.&lt;/p&gt;
-
-&lt;p&gt;Incorporada la &lt;a href=&quot;https://github.com/Edutictac/webtictac/wiki&quot;&gt;wiki&lt;/a&gt; del projecte WebTicTac.&lt;/p&gt;
-
-&lt;p&gt;Incorporada galeria de fotos de proves i Google Maps per a quedades al final de la pàgina.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 05 Jan 2016 00:00:00 +0100</pubDate>
-        <link>http://edutictac.github.com/webtictac//2016/01/05/codi-inicial.html</link>
-        <guid isPermaLink="true">http://edutictac.github.com/webtictac//2016/01/05/codi-inicial.html</guid>
         
         
       </item>
