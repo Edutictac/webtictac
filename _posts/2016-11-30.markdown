@@ -1,0 +1,7 @@
+---
+layout: post
+title: Enllaç a biblioteca JClic actualitzat
+date:  2016-11-30 00:00:00
+---
+
+Hem actualitzat l'enllaç a la bibliteca JClic, ja que hi ha una nova versió. Ara enllaça  la versió del [JClic_22_11_2016](http://edutictac.es/descarregues/JClic_22_08_16.zip).
