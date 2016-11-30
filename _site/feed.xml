@@ -6,9 +6,35 @@
 </description>
     <link>http://edutictac.github.com/webtictac//</link>
     <atom:link href="http://edutictac.github.com/webtictac//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 11 Nov 2016 18:14:05 +0100</pubDate>
-    <lastBuildDate>Fri, 11 Nov 2016 18:14:05 +0100</lastBuildDate>
+    <pubDate>Wed, 30 Nov 2016 22:58:16 +0100</pubDate>
+    <lastBuildDate>Wed, 30 Nov 2016 22:58:16 +0100</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Enllaç a biblioteca JClic actualitzat</title>
+        <description>&lt;p&gt;Hem actualitzat l’enllaç a la bibliteca JClic, ja que hi ha una nova versió. Ara enllaça  la versió del &lt;a href=&quot;http://edutictac.es/descarregues/JClic_22_08_16.zip&quot;&gt;JClic_22_11_2016&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 30 Nov 2016 01:00:00 +0100</pubDate>
+        <link>http://edutictac.github.com/webtictac//2016/11/30/JClic-Ratoli-22-08-16.html</link>
+        <guid isPermaLink="true">http://edutictac.github.com/webtictac//2016/11/30/JClic-Ratoli-22-08-16.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Afegida foto del Congrés Internacional</title>
+        <description>&lt;p&gt;L’assistència al &lt;a href=&quot;http://edutec.ddgde.ua.es/index.php/programa-completo/&quot;&gt;Congrés Internacional EduTec 2016&lt;/a&gt; ens va deixar una foto per al record.&lt;/p&gt;
+
+&lt;p&gt;Hem inclòs aquesta foto per al record al carrusel de la web de la comunicat.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 11 Nov 2016 01:00:00 +0100</pubDate>
+        <link>http://edutictac.github.com/webtictac//2016/11/11/congres-internacional.html</link>
+        <guid isPermaLink="true">http://edutictac.github.com/webtictac//2016/11/11/congres-internacional.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Introducció de reCAPTCHA</title>
@@ -142,39 +168,6 @@
         <pubDate>Sat, 16 Jan 2016 00:00:00 +0100</pubDate>
         <link>http://edutictac.github.com/webtictac//2016/01/16/proposta-actualitzacio.html</link>
         <guid isPermaLink="true">http://edutictac.github.com/webtictac//2016/01/16/proposta-actualitzacio.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Enllestint seccions</title>
-        <description>&lt;p&gt;Hen editat comentaris per tal de seguir parlant de les activitats fetes a la comunitat.&lt;/p&gt;
-
-&lt;p&gt;Hem afegit un enllaç al repositori de la Comunitat Edutictac de Lanunchpad. També parlem dels serveis de Moodle, Diigo, GITHub i el Planeta.&lt;/p&gt;
-
-&lt;p&gt;Hem afegit enllaços cap a distros interessant, però cal pensar l’interior de les caixes.&lt;/p&gt;
-
-&lt;p&gt;Per altra banda cal repensar el formulari de contacte, potser caldria posar un missatge de no implementat pel moment.&lt;/p&gt;
-
-&lt;p&gt;Finalment cal afegir uns comentaris respecte l’experiència dels membres de la comunitat al llarg d’aquests anys.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 15 Jan 2016 00:00:00 +0100</pubDate>
-        <link>http://edutictac.github.com/webtictac//2016/01/15/enllestint-seccions.html</link>
-        <guid isPermaLink="true">http://edutictac.github.com/webtictac//2016/01/15/enllestint-seccions.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Redimensionant les imatges</title>
-        <description>&lt;p&gt;Hen tingut certs problemes en ajustar les imatges de la galeria. Actualment no són definitives, però hem aconseguit ajustar-les per donar la sensació d’equilibri.&lt;/p&gt;
-
-&lt;p&gt;No tenim moltes imatges on elegir, així que potser tirem endavant amb aquestes primeres i més tard ja podrem millorar-les.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 09 Jan 2016 00:00:00 +0100</pubDate>
-        <link>http://edutictac.github.com/webtictac//2016/01/09/redimensionant-les-imatges.html</link>
-        <guid isPermaLink="true">http://edutictac.github.com/webtictac//2016/01/09/redimensionant-les-imatges.html</guid>
         
         
       </item>
